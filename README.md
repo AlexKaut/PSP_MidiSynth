@@ -69,11 +69,12 @@ Compiled program will be saved in "PSP_MidiSynth"
 
 - I recommend checking out their project https://www.youtube.com/watch?v=9r6rsSNpkjs
 
-- MIDI Synth demonstration video 
+- MIDI Synth demonstration video https://www.youtube.com/watch?v=WZJZkFJ37xU
 
 - In 2008, MIDI was connected to the PSP, so I'm not the first https://www.youtube.com/watch?v=5dN_RP0IBAg
 
 - UART port info https://mc.pp.se/psp/phones.xhtml
+
 
 
 
