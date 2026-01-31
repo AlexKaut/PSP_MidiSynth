@@ -13,7 +13,7 @@
 - 5 presets (to save the preset, press triangle)
 logic level converter
 #### Video demonstration
-link
+https://www.youtube.com/watch?v=WZJZkFJ37xU
 
 ## MIDI IN / UART port 
 
@@ -75,6 +75,7 @@ Compiled program will be saved in "PSP_MidiSynth"
 - In 2008, MIDI was connected to the PSP, so I'm not the first https://www.youtube.com/watch?v=5dN_RP0IBAg
 
 - UART port info https://mc.pp.se/psp/phones.xhtml
+
 
 
 
