@@ -46,7 +46,8 @@ At the moment I am powering the optocoupler via an external USB, reducing the vo
 
 #### MIDI IN shematics 
 
-pictures
+![6N138](6N138.jpg)
+![TLP2361](TLP2361.jpg)
 
 
 ## Installing the program on a PSP
@@ -74,6 +75,7 @@ Compiled program will be saved in "PSP_MidiSynth"
 - In 2008, MIDI was connected to the PSP, so I'm not the first https://www.youtube.com/watch?v=5dN_RP0IBAg
 
 - UART port info https://mc.pp.se/psp/phones.xhtml
+
 
 
 
