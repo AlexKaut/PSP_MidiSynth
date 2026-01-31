@@ -1,0 +1,12 @@
+	.set noreorder
+
+#include "pspstub.s"
+
+	STUB_START "kernel",0x40090000,0x00060005
+	STUB_FUNC  0xA31CAC75,pspUARTInit
+	STUB_FUNC  0xFC01F8DC,pspUARTTerminate
+	STUB_FUNC  0xB1196965,pspUARTRead
+	STUB_FUNC  0x7F5C56CE,pspUARTWrite
+	STUB_FUNC  0x8626FF55,pspUARTResetBuff
+	STUB_FUNC  0xA7EFDB88,pspUARTWriteString
+	STUB_END
